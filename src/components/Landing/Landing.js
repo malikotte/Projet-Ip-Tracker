@@ -8,7 +8,7 @@ class Landing extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            name: ""
+            name: "google.fr"
         };
         this.ip = this.ip.bind(this);
     }
