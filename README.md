@@ -18,3 +18,5 @@ Problème rencontré : Lors de la publication sur netlify ou heroku, le site ne 
 Cause -> L'api est en http et netlify en https.
 
 adresse : localhost:3000
+
+<img src="api.gif"/>
