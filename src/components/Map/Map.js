@@ -48,7 +48,6 @@ class Map extends Component {
                     if (this.state.data.status === "success") {
                         this.map(this.state.data.lat, this.state.data.lon)
                     } else {
-                        alert("wesh");
                     }
                 })
         }
