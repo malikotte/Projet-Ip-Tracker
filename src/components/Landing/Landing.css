@@ -1,0 +1,14 @@
+.landing-div{
+    margin-top: -220px;
+    z-index: 3;
+}
+.landing-map{
+    position: relative;
+
+    z-index: 1;
+}
+.landing-info{
+    position: relative;
+
+    z-index: 2;
+}
